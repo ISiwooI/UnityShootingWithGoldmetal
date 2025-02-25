@@ -1,6 +1,7 @@
 ## MobileShooting
 
 > 교내 개발 동아리 S.owl에서 강의를 진행하며 실습한 프로젝트입니다.
+> 라이선스 문제 방지를 위해 외부에서 임포트한 리소스들은 업로드하지 않았습니다.
 
 
 ![UNITY](https://img.shields.io/badge/UNITY-000000.svg?&style=for-the-badge&logo=unity&logoColor=white)
