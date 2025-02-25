@@ -31,10 +31,9 @@
 - **C#**: 스크립팅 언어
 - **Visual Studio Code**: 코드 편집기
 
-## 플레이 영상
-
-
-
+## 참고 강의
+### youtube 골드메탈 2d 종스크롤 슈팅
+https://youtu.be/ETYzjbnLixY?si=p-C_kKjCFnNqWIiD
 ## 연락처
 
 - 이메일: [samseo2910@naver.com](mailto:samseo2910@naver.com)
